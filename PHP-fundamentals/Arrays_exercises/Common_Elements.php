@@ -1,4 +1,5 @@
 <?php
+
 $arr1 = explode(' ', readline());
 $arr2 = explode(' ', readline());
 
